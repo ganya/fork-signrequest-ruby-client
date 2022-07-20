@@ -11,5 +11,5 @@ Swagger Codegen version: 2.4.11
 =end
 
 module SignRequestClient
-  VERSION = '1.2.0'
+  VERSION = '1.2.1'
 end
